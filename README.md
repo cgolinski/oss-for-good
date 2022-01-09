@@ -1,11 +1,12 @@
 # OSS for Good
+
 This is a list of open source projects that are creating good in the world. Submissions are welcome.
 
 ## TODO
-- Connect Google spreadsheet to app: https://developers.google.com/sheets/api
-  - Left off here: https://developers.google.com/sheets/api/quickstart/js#step_1_set_up_the_sample
-  - https://console.cloud.google.com/apis/credentials?project=oss-for-good&supportedpurview=project
-- Fetch and render spreadsheet data
+
+- Set up Ruby BE
+- Set up db
+- Fetch and render data
 - Create form and connect to app
 - Set up graphql/apollo
 - Find and add oss projects for good!
